@@ -1,0 +1,9 @@
+#pragma version 5
+txn TypeEnum
+int axfer
+==
+txn AssetAmount
+int 0
+==
+&&
+return
